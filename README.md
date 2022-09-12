@@ -1,6 +1,7 @@
-[![PS-Check](https://github.com/atao/KSC/actions/workflows/blank.yml/badge.svg)](https://github.com/atao/KSC/actions/workflows/blank.yml)
 ## KSC Miner 
 This is a little Powershell script help to fetch metric's values from Kaspersky Security Center (KSC).
+
+[![PS-Check](https://github.com/atao/KSC/actions/workflows/blank.yml/badge.svg)](https://github.com/atao/KSC/actions/workflows/blank.yml)
 
 Actual release 0.99
 
